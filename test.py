@@ -1,6 +1,4 @@
 print("Hello")
 print("Mommy")
-print("Mommy")
-print("Mommy")
-print("Mommy")
-print("Mommy")
+print("Dad")
+input("Phone")
